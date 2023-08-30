@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator challenge DVT_final", "Elevator challenge DVT_final\Elevator challenge DVT_final.csproj", "{FDFA1F14-2792-4682-82B1-1212ED807212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFA1F14-2792-4682-82B1-1212ED807212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFA1F14-2792-4682-82B1-1212ED807212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFA1F14-2792-4682-82B1-1212ED807212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFA1F14-2792-4682-82B1-1212ED807212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93AE1B5C-0AB0-4E4D-8D20-94E1F95219CB}
+	EndGlobalSection
+EndGlobal
